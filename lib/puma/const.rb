@@ -35,7 +35,7 @@ module Puma
 
     # The default number of seconds for another request within a persistent
     # session.
-    PERSISTENT_TIMEOUT = 20
+    PERSISTENT_TIMEOUT = 1
 
     # The default number of seconds to wait until we get the first data
     # for the request
